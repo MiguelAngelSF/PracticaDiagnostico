@@ -1,0 +1,23 @@
+.header{
+    background-color: rgb(20, 163, 163);
+    color: #ffff;
+    display: grid;
+    place-content: center;
+    align-items: center;
+
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.texto{
+    position: absolute;
+    top: 80px;
+    left: 10px;
+    background-color: rgb(31, 31, 182);
+    opacity: .8;
+    color: #ffff;
+}
+
